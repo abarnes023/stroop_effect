@@ -1,4 +1,4 @@
-# stroop_effect
+# Stroop Task Analysis
 
 ## Overview
 This exercise was one of my first projects done using Python to analyze a dataset. The analysis examines a dataset with results of the Stroop task for 24 participants. The exercise was done as a part of a course, and the questions asked by the course are answered in the Jupyter Notebook file.

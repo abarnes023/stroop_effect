@@ -1,10 +1,12 @@
 # stroop_effect
 
 ## Overview
-This is an analysis of a dataset with results of the Stroop task for 24 participants which demonstrates the [Stroop Effect](https://www.verywellmind.com/what-is-the-stroop-effect-2795832).
+This exercise was one of my first projects done using Python to analyze a dataset. The analysis examines a dataset with results of the Stroop task for 24 participants. The exercise was done as a part of a course, and the questions asked by the course are answered in the Jupyter Notebook file.
 
-## Concepts and Libraries Used
-- Jupyter Notebook
+### Findings
+The analysis of the data demonstrated the [Stroop Effect](https://www.verywellmind.com/what-is-the-stroop-effect-2795832), showing that the reaction time to name the ink color for words congruent with ink color is faster than words incongruent with ink color.
+
+### Concepts and Libraries Used
 - Python
 - Pandas
 - Matplotlib
